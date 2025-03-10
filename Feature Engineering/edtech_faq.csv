@@ -1,0 +1,6 @@
+question,answer,category,intent,synonyms
+Class kobe shuru?,Class 10 PM e shuru hobe.,Course Info,class_time,"batch kobe, class time"
+Admission fee koto?,Admission fee $1000 USD.,Admission,admission_fee,"fee koto, cost of course"
+Course duration koto din?,Course ti 3 maser hobe.,Course Info,course_duration,"duration, kotodin"
+Certificate pawa jabe ki?,"Haan, successful completion e certificate.",Certification,certificate,certificate ki pabo?
+Instructor ke hobe?,Mr. Rahim AI Expert instructor.,Faculty,instructor,"teacher, mentor"
