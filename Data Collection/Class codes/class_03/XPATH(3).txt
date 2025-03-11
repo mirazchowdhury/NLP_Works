@@ -1,0 +1,2 @@
+Text xpath ::
+//*[@id="root"]/div/div[2]/div[1]/div/div[1]/div[1]/div/div[1]/div/div/span[1]
