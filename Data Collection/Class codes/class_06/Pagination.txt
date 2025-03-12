@@ -57,3 +57,15 @@ b9 =//*[@id="module_product_review"]/div/div/div[3]/div[2]/div/div/button[4]
 
 
 b10 = //*[@id="module_product_review"]/div/div/div[3]/div[2]/div/div/button[5]
+
+
+total  comments: 50
+total_page = 10
+
+1.......................10
+if(total_page>=4)
+
+1,2,3,4................................10
+
+
+

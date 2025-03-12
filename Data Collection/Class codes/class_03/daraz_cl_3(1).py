@@ -1,3 +1,5 @@
+#single pagination products links extract
+
 from selenium import webdriver
 import time
 from selenium.webdriver.common.by import By
@@ -10,5 +12,5 @@ for i in range(1,21):
     link = driver.find_element(By.XPATH,'//*[@id="root"]/div/div[2]/div[1]/div/div[1]/div[2]/div['+type_i+']/div/div/div[2]/div[2]/a').get_attribute('href')
     link_list.append(link)
 print(link_list)
-print(len(link_list))
+
 
