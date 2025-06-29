@@ -1,0 +1,4 @@
+pandas 
+together 
+numpy
+sentence-transformers

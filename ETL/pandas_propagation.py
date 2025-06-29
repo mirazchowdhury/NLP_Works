@@ -5,6 +5,6 @@ data = {'id': [1, 2, 3, 4, 5, None, 7, 8, 9, 10],
 df = pd.DataFrame(data)
 print(df)
 
-# new_df = df.fillna(method = 'ffill')
-new_df = df.fillna(method = 'bfill')
+new_df = df.fillna(method = 'ffill')
+#new_df = df.fillna(method = 'bfill')
 print(new_df)
